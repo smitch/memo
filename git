@@ -1,0 +1,3 @@
+# reset modification
+git reset --hard <commit name>
+<commit name>: HEAD or commmit hash value
