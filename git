@@ -4,3 +4,6 @@ git reset --hard <commit name>
 
 # push tags to remote
 git push origin --tags
+
+# push branch to remote
+git push origin <branch name>
