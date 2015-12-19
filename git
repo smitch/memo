@@ -11,3 +11,9 @@ git push origin <branch name>
 # show and get file from another branch
 git show <branch name>:<file name>
 git checkout <branch name> -- <file name>
+
+# track designated directory in repository
+cd path/to/git/clone/repository
+git config core.sparsecheckout true
+echo "path/to/include/only/this/directory" > .git/info/sparse-checkout
+git read-tree -m -u HEAD
