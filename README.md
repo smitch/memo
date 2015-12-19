@@ -1,2 +1,2 @@
 # memo
-memos of something often forgotten
+memos of something worth write down
