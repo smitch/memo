@@ -7,3 +7,7 @@ git push origin --tags
 
 # push branch to remote
 git push origin <branch name>
+
+# show and get file from another branch
+git show <branch name>:<file name>
+git checkout <branch name> -- <file name>
