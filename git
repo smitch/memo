@@ -12,7 +12,7 @@ git push origin <branch name>
 git show <branch name>:<file name>
 git checkout <branch name> -- <file name>
 
-# track designated directory in repository
+# track only designated directory in repository
 cd path/to/git/clone/repository
 git config core.sparsecheckout true
 echo "path/to/include/only/this/directory" > .git/info/sparse-checkout
