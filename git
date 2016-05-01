@@ -24,3 +24,6 @@ git config --global color.ui true
 # first setting
 git config --global user.name "my name"
 git config --global user.email "my email@address"
+
+# config url setting
+url = ssh://git@github.com/<my account>/<my repository>
