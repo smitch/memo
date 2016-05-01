@@ -17,3 +17,10 @@ cd path/to/git/clone/repository
 git config core.sparsecheckout true
 echo "path/to/include/only/this/directory" > .git/info/sparse-checkout
 git read-tree -m -u HEAD
+
+# color setting
+git config --global color.ui true
+
+# first setting
+git config --global user.name "my name"
+git config --global user.email "my email@address"
