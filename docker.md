@@ -3,26 +3,14 @@
 - https://docs.docker.com/install/linux/docker-ce/centos/#install-using-the-repository
 
 ```
- sudo yum install -y yum-utils \
-  device-mapper-persistent-data \
+sudo yum install -y yum-utils \
+    device-mapper-persistent-data \
     lvm2
-```
-
-```
 sudo yum-config-manager \
     --add-repo \
-        https://download.docker.com/linux/centos/docker-ce.repo
-```
-
-```
+    https://download.docker.com/linux/centos/docker-ce.repo
 sudo yum install docker-ce docker-ce-cli containerd.io
-```
-
-```
 sudo systemctl start docker
-```
-
-```
 sudo docker run hello-world
 ```
 
@@ -51,5 +39,5 @@ sudo docker run hello-world
 
 https://qiita.com/Asayu123/items/ccfe4ccfc417ce57f445
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNzczOTE0MF19
+eyJoaXN0b3J5IjpbMTYzNDc0NjM2LC03Mzc3MzkxNDBdfQ==
 -->
