@@ -1,5 +1,6 @@
 
-## install
+# install
+## centos
 - https://docs.docker.com/install/linux/docker-ce/centos/#install-using-the-repository
 
 ```
@@ -13,16 +14,15 @@ sudo yum install docker-ce docker-ce-cli containerd.io
 sudo systemctl start docker
 sudo docker run hello-world
 ```
-
-## copy directory from guest to host
+## ubuntu
+- [Ansibleを使用してUbuntu 18.04にDockerをインストールおよびセットアップする方法](https://www.codeflow.site/ja/article/how-to-use-ansible-to-install-and-set-up-docker-on-ubuntu-18-04)
+# copy directory from guest to host
 - https://stackoverflow.com/questions/35787702/docker-cp-a-folder-with-a-relative-symlink-invalid-symlink
 
 
-## shell in container
+# shell in container
 `docker exec -it <container id> /bin/bash`
 - https://qiita.com/yosisa/items/a5670e4da3ff22e9411a
-
-## [Ansibleを使用してUbuntu 18.04にDockerをインストールおよびセットアップする方法](https://www.codeflow.site/ja/article/how-to-use-ansible-to-install-and-set-up-docker-on-ubuntu-18-04)
 
 # microk8s
 
@@ -39,9 +39,10 @@ sudo docker run hello-world
 
 https://qiita.com/Asayu123/items/ccfe4ccfc417ce57f445
 
-# [owasp cheatsheet](https://cheatsheetseries.owasp.org/cheatsheets/Docker_Security_Cheat_Sheet.html#docker-security-cheat-sheet)
+# security
+- [owasp cheatsheet](https://cheatsheetseries.owasp.org/cheatsheets/Docker_Security_Cheat_Sheet.html#docker-security-cheat-sheet)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMxMjkyNTQ1LDE2MzQ3NDYzNiwtNzM3Nz
+eyJoaXN0b3J5IjpbLTgzMjU5NDg1LDE2MzQ3NDYzNiwtNzM3Nz
 M5MTQwXX0=
 -->
