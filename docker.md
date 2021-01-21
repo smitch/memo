@@ -42,7 +42,14 @@ https://qiita.com/Asayu123/items/ccfe4ccfc417ce57f445
 # security
 - [owasp cheatsheet](https://cheatsheetseries.owasp.org/cheatsheets/Docker_Security_Cheat_Sheet.html#docker-security-cheat-sheet)
 
+
+# env
+- [Docker で環境変数をホストからコンテナに渡す方法（ホスト OS 側からゲスト OS に渡す方法各種）](https://qiita.com/KEINOS/items/518610bc2fdf5999acf2)
+
+```
+docker run --env-file [ ファイルパス ] [ その他のオプション ] <イメージ名> [ コマンド ]
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMjU5NDg1LDE2MzQ3NDYzNiwtNzM3Nz
-M5MTQwXX0=
+eyJoaXN0b3J5IjpbOTM5MjI5MjEwLC04MzI1OTQ4NSwxNjM0Nz
+Q2MzYsLTczNzczOTE0MF19
 -->
