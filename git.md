@@ -1,3 +1,6 @@
+# reset modification
+git reset --hard <commit name>
+<commit name>: HEAD or commmit hash value
 
 # push tags to remote
 git push origin --tags
@@ -47,5 +50,6 @@ git resed --hard <commit_id>
 git revert <commit_id>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MDU0NzQ4MCwtNjA2MTYzNzA4XX0=
+eyJoaXN0b3J5IjpbLTYwNjE2MzcwOCwxMDQwNTQ3NDgwLC02MD
+YxNjM3MDhdfQ==
 -->
