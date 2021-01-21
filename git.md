@@ -27,3 +27,28 @@ git config --global user.email "my email@address"
 
 # config url setting
 url = ssh://git@github.com/<my account>/<my repository>
+
+# private git
+useradd git
+echo "Match User git" >> /etc/ssh/sshd_config
+echo "PasswordAuthentication no" >> /etc/ssh/sshd_config
+
+change login shell to git-shell
+/etc/passwd
+git ... /bin/bash -> git ... /usr/bin/git-shell
+
+make keys
+
+# repository list
+```
+curl -sSa "https://api.github.com/users/<user_name>/repos?per_page=100" | grep '"name"' | cut -d '"' -f4
+```
+
+# resetting
+git resed --hard <commit_id>
+
+git revert <commit_id>
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTYwNjE2MzcwOF19
+-->
