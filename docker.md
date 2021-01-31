@@ -49,7 +49,20 @@ https://qiita.com/Asayu123/items/ccfe4ccfc417ce57f445
 ```
 docker run --env-file [ ファイルパス ] [ その他のオプション ] <イメージ名> [ コマンド ]
 ```
+
+# container log
+## [How to clean Docker container logs?](https://stackoverflow.com/questions/41091634/how-to-clean-docker-container-logs)
+```
+docker logs --since 30s -f <container_name_or_id>
+```
+```
+docker logs --tail 20 -f <container_name_or_id>
+```
+```
+echo "" > $(docker inspect --format='{{.LogPath}}' <container_name_or_id>)
+```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM5MjI5MjEwLC04MzI1OTQ4NSwxNjM0Nz
-Q2MzYsLTczNzczOTE0MF19
+eyJoaXN0b3J5IjpbLTMzMTUwNTkwNyw5MzkyMjkyMTAsLTgzMj
+U5NDg1LDE2MzQ3NDYzNiwtNzM3NzM5MTQwXX0=
 -->
