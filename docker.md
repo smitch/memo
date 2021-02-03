@@ -62,7 +62,15 @@ docker logs --tail 20 -f <container_name_or_id>
 echo "" > $(docker inspect --format='{{.LogPath}}' <container_name_or_id>)
 ```
 
+# port forwarding
+https://stackoverflow.com/questions/19897743/exposing-a-port-on-a-live-docker-container
+```
+sudo docker ps 
+sudo docker commit <containerid> <foo/live>
+sudo docker run -i -p 22 -p 8000:80 -m /data:/data -t <foo/live> /bin/bash
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMTUwNTkwNyw5MzkyMjkyMTAsLTgzMj
-U5NDg1LDE2MzQ3NDYzNiwtNzM3NzM5MTQwXX0=
+eyJoaXN0b3J5IjpbMTY1Nzk2NjEyNSwtMzMxNTA1OTA3LDkzOT
+IyOTIxMCwtODMyNTk0ODUsMTYzNDc0NjM2LC03Mzc3MzkxNDBd
+fQ==
 -->
