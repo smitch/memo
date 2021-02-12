@@ -20,7 +20,7 @@ ln -s `pwd`/dist ~/.local/share/cockpit/starter-kit
 
 # cockpit-podman
 ## install
-```
+```bash
 git clone https://github.com/cockpit-project/cockpit-podman.git 
 cd cockpit-podman
 make
@@ -32,6 +32,5 @@ systemctl --user start podman
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzUxNTg4MTUsLTE0NjYwOTIwMjJdfQ
-==
+eyJoaXN0b3J5IjpbMTk0OTk1MjY1MywtMTQ2NjA5MjAyMl19
 -->
