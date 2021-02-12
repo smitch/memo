@@ -10,12 +10,12 @@ PREFIX="~/local" make -C sassc install
 ```
 
 ## install
-```ba
+```bash
 git clone https://github.com/cockpit-project/starter-kit
 cd starter-kit
 make
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk1ODk4ODY5XX0=
+eyJoaXN0b3J5IjpbLTE0NjYwOTIwMjJdfQ==
 -->
