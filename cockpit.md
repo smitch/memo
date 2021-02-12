@@ -2,17 +2,20 @@
 # starter-kit
 ## sassc
 - https://thr3a.hatenablog.com/entry/20180308/1520506843
-```
-
+```bash
+git clone https://github.com/sass/sassc.git
+. sassc/script/bootstrap
+make -C sassc -j4
+PREFIX="~/local" make -C sassc install
 ```
 
 ## install
-```
+```ba
 git clone https://github.com/cockpit-project/starter-kit
 cd starter-kit
 make
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4Mzk2MTYwXX0=
+eyJoaXN0b3J5IjpbNTk1ODk4ODY5XX0=
 -->
