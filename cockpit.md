@@ -14,8 +14,24 @@ PREFIX="~/local" make -C sassc install
 git clone https://github.com/cockpit-project/starter-kit
 cd starter-kit
 make
+mkdir -p ~/.local/share/cockpit
+ln -s `pwd`/dist ~/.local/share/cockpit/starter-kit
+```
+
+# cockpit-podman
+## install
+```
+git clone https://github.com/cockpit-project/cockpit-podman.git 
+cd cockpit-podman
+make
+ln -s `pwd`/dist ~/.local/share/cockpit/cockpit-podman
+```
+## run podman service
+```bash
+systemctl --user start podman
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjYwOTIwMjJdfQ==
+eyJoaXN0b3J5IjpbLTE0MzUxNTg4MTUsLTE0NjYwOTIwMjJdfQ
+==
 -->
