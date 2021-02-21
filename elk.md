@@ -30,12 +30,15 @@ volumes:
 
 # [Kibana×ElasticSearchをConoHa(512MB)で動かす](https://country-dev.hatenablog.com/entry/2017/09/25/000759)
 
-# can directly connect mysql -> no
-[Directly Connecting MySQL DB to Kibana for visualization](https://discuss.elastic.co/t/directly-connecting-mysql-db-to-kibana-for-visualization/239982)
+# can directly connect mysql
+- [Directly Connecting MySQL DB to Kibana for visualization](https://discuss.elastic.co/t/directly-connecting-mysql-db-to-kibana-for-visualization/239982)
+- https://qiita.com/takayuki-miura0203/items/ba9d59a8b267d785d0c6#pipeline
 
 # filebeat
 - https://kazuhira-r.hatenablog.com/entry/2019/12/03/001010
-
+- https://www.ossnews.jp/oss_info/Beats/4
+- https://dev.classmethod.jp/articles/beats-transform-logstash/
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDQzMjQxNThdfQ==
+eyJoaXN0b3J5IjpbLTgwMDE0MzA2OCwtMTU0NDMyNDE1OF19
 -->
