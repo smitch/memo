@@ -78,9 +78,12 @@ command|description
 `docker exec -it <container name/id> /bin/bash`|
 `docker logs -f <container name/id>`|
 `docker ps [-a]`|
-`c`
+`docker images`|
+`docker image rm <image tag/id>`|
+`docker rm <container name/id>`|
+`docker commit `|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE3MjAzNjk5LDE2NTc5NjYxMjUsLTMzMT
-UwNTkwNyw5MzkyMjkyMTAsLTgzMjU5NDg1LDE2MzQ3NDYzNiwt
-NzM3NzM5MTQwXX0=
+eyJoaXN0b3J5IjpbLTEwNjQxMDQ2ODEsMTY1Nzk2NjEyNSwtMz
+MxNTA1OTA3LDkzOTIyOTIxMCwtODMyNTk0ODUsMTYzNDc0NjM2
+LC03Mzc3MzkxNDBdfQ==
 -->
