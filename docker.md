@@ -81,9 +81,10 @@ command|description
 `docker images`|
 `docker image rm <image tag/id>`|
 `docker rm <container name/id>`|
-`docker commit `|
+`docker commit <container name/id> <new container name>`|
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjQxMDQ2ODEsMTY1Nzk2NjEyNSwtMz
-MxNTA1OTA3LDkzOTIyOTIxMCwtODMyNTk0ODUsMTYzNDc0NjM2
-LC03Mzc3MzkxNDBdfQ==
+eyJoaXN0b3J5IjpbLTYwMzc0NTY4OSwxNjU3OTY2MTI1LC0zMz
+E1MDU5MDcsOTM5MjI5MjEwLC04MzI1OTQ4NSwxNjM0NzQ2MzYs
+LTczNzczOTE0MF19
 -->
