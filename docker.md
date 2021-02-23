@@ -70,7 +70,7 @@ sudo docker commit <containerid> <foo/live>
 sudo docker run -i -p 22 -p 8000:80 -m /data:/data -t <foo/live> /bin/bash
 ```
 
-# summary
+# cheat sheet
 command|description
 -|-|-
 `docker run -d --rm <image tag/id>`|
@@ -84,7 +84,7 @@ command|description
 `docker commit <container name/id> <new container name>`|
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMzc0NTY4OSwxNjU3OTY2MTI1LC0zMz
-E1MDU5MDcsOTM5MjI5MjEwLC04MzI1OTQ4NSwxNjM0NzQ2MzYs
-LTczNzczOTE0MF19
+eyJoaXN0b3J5IjpbLTE1NzM4Nzc4MjksMTY1Nzk2NjEyNSwtMz
+MxNTA1OTA3LDkzOTIyOTIxMCwtODMyNTk0ODUsMTYzNDc0NjM2
+LC03Mzc3MzkxNDBdfQ==
 -->
