@@ -69,8 +69,15 @@ sudo docker ps
 sudo docker commit <containerid> <foo/live>
 sudo docker run -i -p 22 -p 8000:80 -m /data:/data -t <foo/live> /bin/bash
 ```
+
+# summary
+|-|-|-|
+-
+||||
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1Nzk2NjEyNSwtMzMxNTA1OTA3LDkzOT
-IyOTIxMCwtODMyNTk0ODUsMTYzNDc0NjM2LC03Mzc3MzkxNDBd
-fQ==
+eyJoaXN0b3J5IjpbLTg1OTM5Mjg4LDE2NTc5NjYxMjUsLTMzMT
+UwNTkwNyw5MzkyMjkyMTAsLTgzMjU5NDg1LDE2MzQ3NDYzNiwt
+NzM3NzM5MTQwXX0=
 -->
