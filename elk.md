@@ -38,7 +38,13 @@ volumes:
 - https://kazuhira-r.hatenablog.com/entry/2019/12/03/001010
 - https://www.ossnews.jp/oss_info/Beats/4
 - https://dev.classmethod.jp/articles/beats-transform-logstash/
-- 
+
+## docker
+- https://www.elastic.co/guide/en/beats/filebeat/current/running-on-docker.html
+```
+docker pull docker.elastic.co/beats/filebeat:7.11.1
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMDE0MzA2OCwtMTU0NDMyNDE1OF19
+eyJoaXN0b3J5IjpbMzIyMjk2MDAsLTgwMDE0MzA2OCwtMTU0ND
+MyNDE1OF19
 -->
