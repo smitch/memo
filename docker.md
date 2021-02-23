@@ -71,14 +71,16 @@ sudo docker run -i -p 22 -p 8000:80 -m /data:/data -t <foo/live> /bin/bash
 ```
 
 # summary
-1|command|f
+command|description
 -|-|-
-`docker run -it <image nam>`|2|3
-
-
-
+`docker run -d --rm <image tag/id>`|
+`docker build . -t <tag>`|
+`docker exec -it <container name/id> /bin/bash`|
+`docker logs -f <container name/id>`|
+`docker ps [-a]`|
+`c`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzODEwNjg2NCwxNjU3OTY2MTI1LC0zMz
-E1MDU5MDcsOTM5MjI5MjEwLC04MzI1OTQ4NSwxNjM0NzQ2MzYs
-LTczNzczOTE0MF19
+eyJoaXN0b3J5IjpbNjE3MjAzNjk5LDE2NTc5NjYxMjUsLTMzMT
+UwNTkwNyw5MzkyMjkyMTAsLTgzMjU5NDg1LDE2MzQ3NDYzNiwt
+NzM3NzM5MTQwXX0=
 -->
