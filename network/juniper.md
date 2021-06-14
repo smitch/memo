@@ -16,7 +16,8 @@
 - [リンクアグリゲーション(802.3ad)の仕組み 〜負荷分散,LACPとStaticの違い](https://milestone-of-se.nesuke.com/nw-basic/link-aggregation/802-1ax/)
 - [静的よりもLACPの方がよい理由](https://network.oreda.net/device/switch/lag.html#%E9%9D%99%E7%9A%84%E3%82%88%E3%82%8A%E3%82%82lacp%E3%81%AE%E6%96%B9%E3%81%8C%E3%82%88%E3%81%84%E7%90%86%E7%94%B1)
 - [Configuring PoE Interfaces](https://www.juniper.net/documentation/us/en/software/junos/poe/topics/topic-map/poe-ex-series-configuring.html#id-configuring-poe-interfaces)
-
+- [junos hands on training PDF](https://www.juniper.net/assets/jp/jp/local/pdf/additional-resources/junos-switching-training-ex-qfx-course-jp.pdf)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM3NDE1MDA0LDQ2MzM3MzMwM119
+eyJoaXN0b3J5IjpbLTc3MjQxNDA2OCwzMzc0MTUwMDQsNDYzMz
+czMzAzXX0=
 -->
