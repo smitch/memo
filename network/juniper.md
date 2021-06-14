@@ -18,12 +18,12 @@
 - [Configuring PoE Interfaces](https://www.juniper.net/documentation/us/en/software/junos/poe/topics/topic-map/poe-ex-series-configuring.html#id-configuring-poe-interfaces)
 - [junos hands on training PDF](https://www.juniper.net/assets/jp/jp/local/pdf/additional-resources/junos-switching-training-ex-qfx-course-jp.pdf)
 - [SRX シリーズ スタディガイド － パート 1](https://www.juniper.net/assets/jp/jp/local/pdf/others/JNCIS-SEC-1_.pdf)
-
+# TCP/UDP timeout
 ```
 デフォルトのタイムアウトは、TCP では 30 分、UDP では 1 分です。
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkxNTQwOTMsLTc3MjQxNDA2OCwzMzc0MT
-UwMDQsNDYzMzczMzAzXX0=
+eyJoaXN0b3J5IjpbNzY1ODc1NjA2LC03NzI0MTQwNjgsMzM3ND
+E1MDA0LDQ2MzM3MzMwM119
 -->
