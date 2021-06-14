@@ -8,7 +8,7 @@
 -   [DHCP サーバーとしてのスイッチの設定 (CLI プロシージャ)](https://www.juniper.net/documentation/ja/junos/topics/topic-map/dhcp-for-switching-devices.html#id-configuring-a-switch-as-a-dhcp-server-cli-procedure)
 - [インターフェイス名の物理部](https://www.juniper.net/documentation/ja/junos/topics/concept/interfaces-interface-naming-overview.html#id-10147130)
 - [Juniper EXのSplit and Merge機能の功罪](https://blog.sidetech.jp/2014/12/05/182257)
-- Junos OS用語集
+- [Junos OS用語集](https://www.hs-juniperproducts.jp/guide/junos_words/word.html)
 -   [Configuring the IPFIX Template Properties](https://www.juniper.net/documentation/us/en/software/junos/flow-monitoring/topics/concept/services-ipfix-flow-template-flow-aggregation-configuring.html#configuring-inline-j-flow-to-use-ipfix-flow-templates-on-mx-vmx-and-t-series-routers-ex-series-switches-nfx-series-devices-and-srx-devices__id-11332295)
 - [Difference Jflow, Cflow and Netflow](https://community.juniper.net/communities/community-home/digestviewer/viewthread?MID=73286)
 - [8. VLAN Pooling](https://qiita.com/tokuhy/items/013e5d7ab1c2c17129dd#8-vlan-pooling)
@@ -17,7 +17,8 @@
 - [静的よりもLACPの方がよい理由](https://network.oreda.net/device/switch/lag.html#%E9%9D%99%E7%9A%84%E3%82%88%E3%82%8A%E3%82%82lacp%E3%81%AE%E6%96%B9%E3%81%8C%E3%82%88%E3%81%84%E7%90%86%E7%94%B1)
 - [Configuring PoE Interfaces](https://www.juniper.net/documentation/us/en/software/junos/poe/topics/topic-map/poe-ex-series-configuring.html#id-configuring-poe-interfaces)
 - [junos hands on training PDF](https://www.juniper.net/assets/jp/jp/local/pdf/additional-resources/junos-switching-training-ex-qfx-course-jp.pdf)
+- [SRX シリーズ スタディガイド － パート 1](https://www.juniper.net/assets/jp/jp/local/pdf/others/JNCIS-SEC-1_.pdf)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MjQxNDA2OCwzMzc0MTUwMDQsNDYzMz
-czMzAzXX0=
+eyJoaXN0b3J5IjpbMzM0NDk5OTg5LC03NzI0MTQwNjgsMzM3ND
+E1MDA0LDQ2MzM3MzMwM119
 -->
