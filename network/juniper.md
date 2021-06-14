@@ -14,7 +14,8 @@
 - [8. VLAN Pooling](https://qiita.com/tokuhy/items/013e5d7ab1c2c17129dd#8-vlan-pooling)
 - [junos upgrade](https://www.infraeye.com/study/junos6.html)
 - [リンクアグリゲーション(802.3ad)の仕組み 〜負荷分散,LACPとStaticの違い](https://milestone-of-se.nesuke.com/nw-basic/link-aggregation/802-1ax/)
-- 
+- [静的よりもLACPの方がよい理由](https://network.oreda.net/device/switch/lag.html#%E9%9D%99%E7%9A%84%E3%82%88%E3%82%8A%E3%82%82lacp%E3%81%AE%E6%96%B9%E3%81%8C%E3%82%88%E3%81%84%E7%90%86%E7%94%B1)
+- [Using the Enhanced Layer 2 Software CLI](https://www.juniper.net/documentation/us/en/software/junos/multicast-l2/topics/topic-map/layer-2-understanding.html#id-using-the-enhanced-layer-2-software-cli)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MjE2NTQ5NCw0NjMzNzMzMDNdfQ==
+eyJoaXN0b3J5IjpbLTE3MjcyMDQwNDIsNDYzMzczMzAzXX0=
 -->
