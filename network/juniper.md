@@ -21,7 +21,7 @@
 - [Configuring an EX2300, EX3400, EX4300, or EX4400 Virtual Chassis with a Preprovisioned Configuration File](https://www.juniper.net/documentation/us/en/software/junos/virtual-chassis-qfx/topics/task/virtual-chassis-ex4300-configuring.html#id-configuring-an-ex4300-virtual-chassis-with-a-preprovisioned-configuration-file)
 - [JUNOS_VirtualChassis](https://klock-3rd.hatenablog.com/entry/2018/06/30/225641)
 - [Juniper SRX 日本語マニュアル 1. Junos OS インストール&アップグレード](https://www.juniper.net/assets/jp/jp/local/pdf/additional-resources/junos-installation-upgrade.pdf)
-- 
+- [EXスタートアップガイド Virtual Chassis編](https://www.juniper.net/assets/jp/jp/local/pdf/additional-resources/exstartup-guide-vc-rev1-202101.pdf)
 
 # TCP/UDP timeout
 ```
@@ -29,6 +29,6 @@
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg5MjkwOTc4LDc2NTg3NTYwNiwtNzcyND
-E0MDY4LDMzNzQxNTAwNCw0NjMzNzMzMDNdfQ==
+eyJoaXN0b3J5IjpbLTEzMTA5MjYyODMsNzY1ODc1NjA2LC03Nz
+I0MTQwNjgsMzM3NDE1MDA0LDQ2MzM3MzMwM119
 -->
