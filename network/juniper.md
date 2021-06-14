@@ -11,6 +11,10 @@
 - Junos OS用語集
 -   [Configuring the IPFIX Template Properties](https://www.juniper.net/documentation/us/en/software/junos/flow-monitoring/topics/concept/services-ipfix-flow-template-flow-aggregation-configuring.html#configuring-inline-j-flow-to-use-ipfix-flow-templates-on-mx-vmx-and-t-series-routers-ex-series-switches-nfx-series-devices-and-srx-devices__id-11332295)
 - [Difference Jflow, Cflow and Netflow](https://community.juniper.net/communities/community-home/digestviewer/viewthread?MID=73286)
+- [8. VLAN Pooling](https://qiita.com/tokuhy/items/013e5d7ab1c2c17129dd#8-vlan-pooling)
+- [junos upgrade](https://www.infraeye.com/study/junos6.html)
+- [リンクアグリゲーション(802.3ad)の仕組み 〜負荷分散,LACPとStaticの違い](https://milestone-of-se.nesuke.com/nw-basic/link-aggregation/802-1ax/)
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDE2NTc4ODMsNDYzMzczMzAzXX0=
+eyJoaXN0b3J5IjpbMTk3MjE2NTQ5NCw0NjMzNzMzMDNdfQ==
 -->
