@@ -24,14 +24,16 @@
 - [EXスタートアップガイド Virtual Chassis編](https://www.juniper.net/assets/jp/jp/local/pdf/additional-resources/exstartup-guide-vc-rev1-202101.pdf)
 - [Understanding the Algorithm Used to Hash LAG Bundle and Egress Next-Hop ECMP Traffic](https://www.juniper.net/documentation/us/en/software/junos/interfaces-ethernet-switches/topics/topic-map/switches-interface-aggregated.html#id-understanding-the-algorithm-used-to-hash-lag-bundle-and-egress-nexthop-ecmp-traffic)
 - [SRX シャーシクラスター 《ブランチ編》PDF](https://www.juniper.net/assets/jp/jp/local/pdf/others/br_chassis-clustering.pdf)
-- 
+- [EX4300 イーサネット スイッチ ハードウェア 完全ガイド](https://www.juniper.net/documentation/ja/release-independent/junos/information-products/topic-collections/hardware/ex-series/ex4300/book-hw-ex4300.pdf)
+
+
 # TCP/UDP timeout
 ```
 デフォルトのタイムアウトは、TCP では 30 分、UDP では 1 分です。
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgyODczNjU0LC0xMzEwOTI2MjgzLDc2NT
-g3NTYwNiwtNzcyNDE0MDY4LDMzNzQxNTAwNCw0NjMzNzMzMDNd
-fQ==
+eyJoaXN0b3J5IjpbNjA0MDU0MTU0LDk4Mjg3MzY1NCwtMTMxMD
+kyNjI4Myw3NjU4NzU2MDYsLTc3MjQxNDA2OCwzMzc0MTUwMDQs
+NDYzMzczMzAzXX0=
 -->
