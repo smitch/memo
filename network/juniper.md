@@ -25,7 +25,8 @@
 - [Understanding the Algorithm Used to Hash LAG Bundle and Egress Next-Hop ECMP Traffic](https://www.juniper.net/documentation/us/en/software/junos/interfaces-ethernet-switches/topics/topic-map/switches-interface-aggregated.html#id-understanding-the-algorithm-used-to-hash-lag-bundle-and-egress-nexthop-ecmp-traffic)
 - [SRX シャーシクラスター 《ブランチ編》PDF](https://www.juniper.net/assets/jp/jp/local/pdf/others/br_chassis-clustering.pdf)
 - [EX4300 イーサネット スイッチ ハードウェア 完全ガイド](https://www.juniper.net/documentation/ja/release-independent/junos/information-products/topic-collections/hardware/ex-series/ex4300/book-hw-ex4300.pdf)
-- 
+- [Understanding Chassis Cluster Redundancy Groups](https://www.juniper.net/documentation/us/en/software/junos/chassis-cluster-security-devices/topics/topic-map/security-chassis-cluster-redundancy-groups.html#id-understanding-chassis-cluster-redundancy-groups)
+
 
 # TCP/UDP timeout
 ```
@@ -33,7 +34,7 @@
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTYwMDUwMzMsNjA0MDU0MTU0LDk4Mj
+eyJoaXN0b3J5IjpbLTEzMTE5MzYxMDcsNjA0MDU0MTU0LDk4Mj
 g3MzY1NCwtMTMxMDkyNjI4Myw3NjU4NzU2MDYsLTc3MjQxNDA2
 OCwzMzc0MTUwMDQsNDYzMzczMzAzXX0=
 -->
