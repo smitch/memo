@@ -22,13 +22,16 @@
 - [JUNOS_VirtualChassis](https://klock-3rd.hatenablog.com/entry/2018/06/30/225641)
 - [Juniper SRX 日本語マニュアル 1. Junos OS インストール&アップグレード](https://www.juniper.net/assets/jp/jp/local/pdf/additional-resources/junos-installation-upgrade.pdf)
 - [EXスタートアップガイド Virtual Chassis編](https://www.juniper.net/assets/jp/jp/local/pdf/additional-resources/exstartup-guide-vc-rev1-202101.pdf)
-
+- [Understanding the Algorithm Used to Hash LAG Bundle and Egress Next-Hop ECMP Traffic](https://www.juniper.net/documentation/us/en/software/junos/interfaces-ethernet-switches/topics/topic-map/switches-interface-aggregated.html#id-understanding-the-algorithm-used-to-hash-lag-bundle-and-egress-nexthop-ecmp-traffic)
+- [SRX シャーシクラスター 《ブランチ編》PDF](https://www.juniper.net/assets/jp/jp/local/pdf/others/br_chassis-clustering.pdf)
+- 
 # TCP/UDP timeout
 ```
 デフォルトのタイムアウトは、TCP では 30 分、UDP では 1 分です。
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTA5MjYyODMsNzY1ODc1NjA2LC03Nz
-I0MTQwNjgsMzM3NDE1MDA0LDQ2MzM3MzMwM119
+eyJoaXN0b3J5IjpbOTgyODczNjU0LC0xMzEwOTI2MjgzLDc2NT
+g3NTYwNiwtNzcyNDE0MDY4LDMzNzQxNTAwNCw0NjMzNzMzMDNd
+fQ==
 -->
