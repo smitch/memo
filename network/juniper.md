@@ -26,7 +26,7 @@
 - [SRX シャーシクラスター 《ブランチ編》PDF](https://www.juniper.net/assets/jp/jp/local/pdf/others/br_chassis-clustering.pdf)
 - [EX4300 イーサネット スイッチ ハードウェア 完全ガイド](https://www.juniper.net/documentation/ja/release-independent/junos/information-products/topic-collections/hardware/ex-series/ex4300/book-hw-ex4300.pdf)
 - [Understanding Chassis Cluster Redundancy Groups](https://www.juniper.net/documentation/us/en/software/junos/chassis-cluster-security-devices/topics/topic-map/security-chassis-cluster-redundancy-groups.html#id-understanding-chassis-cluster-redundancy-groups)
-
+- [show interfaces diagnostics optics](https://www.juniper.net/documentation/us/en/software/junos/flow-packet-processing/topics/ref/command/show-interfaces-diagnostics-optics-srx.html)
 
 # TCP/UDP timeout
 ```
@@ -34,7 +34,7 @@
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTE5MzYxMDcsNjA0MDU0MTU0LDk4Mj
-g3MzY1NCwtMTMxMDkyNjI4Myw3NjU4NzU2MDYsLTc3MjQxNDA2
-OCwzMzc0MTUwMDQsNDYzMzczMzAzXX0=
+eyJoaXN0b3J5IjpbLTEyMTA5MzQwOTMsLTEzMTE5MzYxMDcsNj
+A0MDU0MTU0LDk4Mjg3MzY1NCwtMTMxMDkyNjI4Myw3NjU4NzU2
+MDYsLTc3MjQxNDA2OCwzMzc0MTUwMDQsNDYzMzczMzAzXX0=
 -->
