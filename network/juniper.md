@@ -34,16 +34,28 @@
 ```
 # memo url only
 
-https://klock-3rd.hatenablog.com/entry/2018/08/09/234202
+- https://klock-3rd.hatenablog.com/entry/2018/08/09/234202
 https://www.reddit.com/r/Juniper/comments/6a6253/ex3400_tagged_and_untagged_vlan_on_one_interface/
-https://nokonokonetwork.com/juniper/srx_cli_command_syslog_security_log.html
-https://nokonokonetwork.com/juniper/how_to_use_juniper_vlabs_for_free.html
-https://nokonokonetwork.com/juniper/how_to_resister_user_accout_for_private_use.html
-https://www.juniper.net/documentation/us/en/software/junos/utm/topics/ref/command/show-security-log.html
-
+- https://nokonokonetwork.com/juniper/srx_cli_command_syslog_security_log.html
+- https://nokonokonetwork.com/juniper/how_to_use_juniper_vlabs_for_free.html
+- https://nokonokonetwork.com/juniper/how_to_resister_user_accout_for_private_use.html
+- https://www.juniper.net/documentation/us/en/software/junos/utm/topics/ref/command/show-security-log.html
+https://kb.juniper.net/InfoCenter/index?page=content&id=KB16509
+- https://www.juniper.net/documentation/en_US/release-independent/nce/topics/task/operational/chassis-cluster-srx-log-message-configuring.html
+- https://www.juniper.net/documentation/ja/junos/topics/task/configuration/interfaces-enabling-or-disabling-snmp-notifications-on-logical-interfaces.html
+- https://www.juniper.net/documentation/us/en/software/junos/network-mgmt/topics/ref/statement/security-edit-stream-security-log.html
+- https://www.juniper.net/documentation/en_US/junos/topics/task/configuration/security-system-stream-security-log-revenue-port-setting.html
+- https://kb.juniper.net/InfoCenter/index?page=content&id=KB16506&actp=METADATA
+- https://www.juniper.net/documentation/us/en/software/junos/virtual-chassis-mx/topics/ref/command/request-virtual-chassis-routing-engine-master-switch-mx-series.html
+- https://www.infraeye.com/study/srx8.html
+- https://www.juniper.net/documentation/en_US/junos/topics/reference/configuration-statement/source-address-edit-system-ntp-radius-syslog-tacacs.html
+- https://itengine.seesaa.net/article/457187173.html
+- https://kb.juniper.net/InfoCenter/index?page=content&id=KB21563&actp=METADATA
+- https://www.infraexpert.com/study/catalyst25.html
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDczMzkwMjU2LC0xMjEwOTM0MDkzLC0xMz
-ExOTM2MTA3LDYwNDA1NDE1NCw5ODI4NzM2NTQsLTEzMTA5MjYy
-ODMsNzY1ODc1NjA2LC03NzI0MTQwNjgsMzM3NDE1MDA0LDQ2Mz
-M3MzMwM119
+eyJoaXN0b3J5IjpbMTE0Mzc1NDgxOSwtMTIxMDkzNDA5MywtMT
+MxMTkzNjEwNyw2MDQwNTQxNTQsOTgyODczNjU0LC0xMzEwOTI2
+MjgzLDc2NTg3NTYwNiwtNzcyNDE0MDY4LDMzNzQxNTAwNCw0Nj
+MzNzMzMDNdfQ==
 -->
