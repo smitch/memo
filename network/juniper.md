@@ -32,9 +32,18 @@
 ```
 デフォルトのタイムアウトは、TCP では 30 分、UDP では 1 分です。
 ```
+# memo url only
+
+https://klock-3rd.hatenablog.com/entry/2018/08/09/234202
+https://www.reddit.com/r/Juniper/comments/6a6253/ex3400_tagged_and_untagged_vlan_on_one_interface/
+https://nokonokonetwork.com/juniper/srx_cli_command_syslog_security_log.html
+https://nokonokonetwork.com/juniper/how_to_use_juniper_vlabs_for_free.html
+https://nokonokonetwork.com/juniper/how_to_resister_user_accout_for_private_use.html
+https://www.juniper.net/documentation/us/en/software/junos/utm/topics/ref/command/show-security-log.html
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTA5MzQwOTMsLTEzMTE5MzYxMDcsNj
-A0MDU0MTU0LDk4Mjg3MzY1NCwtMTMxMDkyNjI4Myw3NjU4NzU2
-MDYsLTc3MjQxNDA2OCwzMzc0MTUwMDQsNDYzMzczMzAzXX0=
+eyJoaXN0b3J5IjpbNDczMzkwMjU2LC0xMjEwOTM0MDkzLC0xMz
+ExOTM2MTA3LDYwNDA1NDE1NCw5ODI4NzM2NTQsLTEzMTA5MjYy
+ODMsNzY1ODc1NjA2LC03NzI0MTQwNjgsMzM3NDE1MDA0LDQ2Mz
+M3MzMwM119
 -->
