@@ -101,9 +101,13 @@ https://www.juniper.net/documentation/ja/junos/topics/task/configuration/interfa
 https://community.juniper.net/communities/community-home/digestviewer/viewthread?MID=67981
 https://www.juniper.net/documentation/en_US/release-independent/nce/topics/task/operational/chassis-cluster-srx-log-message-configuring.html
 
+https://www.juniper.net/documentation/ja/junos/topics/example/bgp-advertise-peer-as.html
+https://www.juniper.net/documentation/ja/junos/topics/example/port-mirroring-local-ex-series-l2.html
+https://kb.juniper.net/InfoCenter/index?page=content&id=KB36138&cat=EX_Series&actp=LIST
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMjEwNzM2NCwxMTQzNzU0ODE5LC0xMj
-EwOTM0MDkzLC0xMzExOTM2MTA3LDYwNDA1NDE1NCw5ODI4NzM2
-NTQsLTEzMTA5MjYyODMsNzY1ODc1NjA2LC03NzI0MTQwNjgsMz
-M3NDE1MDA0LDQ2MzM3MzMwM119
+eyJoaXN0b3J5IjpbODU0NDM2MjA1LDExNDM3NTQ4MTksLTEyMT
+A5MzQwOTMsLTEzMTE5MzYxMDcsNjA0MDU0MTU0LDk4Mjg3MzY1
+NCwtMTMxMDkyNjI4Myw3NjU4NzU2MDYsLTc3MjQxNDA2OCwzMz
+c0MTUwMDQsNDYzMzczMzAzXX0=
 -->
