@@ -104,10 +104,11 @@ https://www.juniper.net/documentation/en_US/release-independent/nce/topics/task/
 https://www.juniper.net/documentation/ja/junos/topics/example/bgp-advertise-peer-as.html
 https://www.juniper.net/documentation/ja/junos/topics/example/port-mirroring-local-ex-series-l2.html
 https://kb.juniper.net/InfoCenter/index?page=content&id=KB36138&cat=EX_Series&actp=LIST
+https://milestone-of-se.nesuke.com/nw-basic/nat/nat-summary/
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU0NDM2MjA1LDExNDM3NTQ4MTksLTEyMT
-A5MzQwOTMsLTEzMTE5MzYxMDcsNjA0MDU0MTU0LDk4Mjg3MzY1
-NCwtMTMxMDkyNjI4Myw3NjU4NzU2MDYsLTc3MjQxNDA2OCwzMz
-c0MTUwMDQsNDYzMzczMzAzXX0=
+eyJoaXN0b3J5IjpbNjAwNTU0NTM4LDg1NDQzNjIwNSwxMTQzNz
+U0ODE5LC0xMjEwOTM0MDkzLC0xMzExOTM2MTA3LDYwNDA1NDE1
+NCw5ODI4NzM2NTQsLTEzMTA5MjYyODMsNzY1ODc1NjA2LC03Nz
+I0MTQwNjgsMzM3NDE1MDA0LDQ2MzM3MzMwM119
 -->
