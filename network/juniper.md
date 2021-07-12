@@ -27,6 +27,12 @@
 - [EX4300 イーサネット スイッチ ハードウェア 完全ガイド](https://www.juniper.net/documentation/ja/release-independent/junos/information-products/topic-collections/hardware/ex-series/ex4300/book-hw-ex4300.pdf)
 - [Understanding Chassis Cluster Redundancy Groups](https://www.juniper.net/documentation/us/en/software/junos/chassis-cluster-security-devices/topics/topic-map/security-chassis-cluster-redundancy-groups.html#id-understanding-chassis-cluster-redundancy-groups)
 - [show interfaces diagnostics optics](https://www.juniper.net/documentation/us/en/software/junos/flow-packet-processing/topics/ref/command/show-interfaces-diagnostics-optics-srx.html)
+- [automatic (Source NAT Next Gen Services)](https://www.juniper.net/documentation/us/en/software/junos/interfaces-next-gen-services/topics/ref/statement/automatic-edit-services-nat-source-port-usf.html)
+
+# nat port assignment
+```
+Automatic port assignment uses the port range 1024 through 65535.
+```
 
 # TCP/UDP timeout
 ```
@@ -107,8 +113,9 @@ https://kb.juniper.net/InfoCenter/index?page=content&id=KB36138&cat=EX_Series&ac
 https://milestone-of-se.nesuke.com/nw-basic/nat/nat-summary/
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAwNTU0NTM4LDg1NDQzNjIwNSwxMTQzNz
-U0ODE5LC0xMjEwOTM0MDkzLC0xMzExOTM2MTA3LDYwNDA1NDE1
-NCw5ODI4NzM2NTQsLTEzMTA5MjYyODMsNzY1ODc1NjA2LC03Nz
-I0MTQwNjgsMzM3NDE1MDA0LDQ2MzM3MzMwM119
+eyJoaXN0b3J5IjpbMTgxMTU2MzExMyw2MDA1NTQ1MzgsODU0ND
+M2MjA1LDExNDM3NTQ4MTksLTEyMTA5MzQwOTMsLTEzMTE5MzYx
+MDcsNjA0MDU0MTU0LDk4Mjg3MzY1NCwtMTMxMDkyNjI4Myw3Nj
+U4NzU2MDYsLTc3MjQxNDA2OCwzMzc0MTUwMDQsNDYzMzczMzAz
+XX0=
 -->
