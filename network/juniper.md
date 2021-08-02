@@ -116,11 +116,12 @@ https://www.juniper.net/documentation/en_US/junos/topics/task/configuration/tcp-
 https://www.juniper.net/documentation/us/en/software/junos/nat/topics/ref/statement/security-edit-clear-threshold.html
 https://www.juniper.net/documentation/en_US/junos/topics/example/denial-of-service-network-tcp-proxy-ws-enabling-cli.html
 https://nokonokonetwork.com/juniper/srx_cli_command_backup_router.html
+https://networkengineering.stackexchange.com/questions/64139/how-can-i-monitor-traffic-matching-a-ip-address
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NDc5MDI1NiwxODExNTYzMTEzLDYwMD
-U1NDUzOCw4NTQ0MzYyMDUsMTE0Mzc1NDgxOSwtMTIxMDkzNDA5
-MywtMTMxMTkzNjEwNyw2MDQwNTQxNTQsOTgyODczNjU0LC0xMz
-EwOTI2MjgzLDc2NTg3NTYwNiwtNzcyNDE0MDY4LDMzNzQxNTAw
-NCw0NjMzNzMzMDNdfQ==
+eyJoaXN0b3J5IjpbLTI5MDQ1OTIwOCwxMDg0NzkwMjU2LDE4MT
+E1NjMxMTMsNjAwNTU0NTM4LDg1NDQzNjIwNSwxMTQzNzU0ODE5
+LC0xMjEwOTM0MDkzLC0xMzExOTM2MTA3LDYwNDA1NDE1NCw5OD
+I4NzM2NTQsLTEzMTA5MjYyODMsNzY1ODc1NjA2LC03NzI0MTQw
+NjgsMzM3NDE1MDA0LDQ2MzM3MzMwM119
 -->
