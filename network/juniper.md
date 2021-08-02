@@ -115,11 +115,12 @@ https://www.juniper.net/documentation/us/en/software/junos/interfaces-ethernet-s
 https://www.juniper.net/documentation/en_US/junos/topics/task/configuration/tcp-rfc-1323-tcp-paws-extension-disabling.html
 https://www.juniper.net/documentation/us/en/software/junos/nat/topics/ref/statement/security-edit-clear-threshold.html
 https://www.juniper.net/documentation/en_US/junos/topics/example/denial-of-service-network-tcp-proxy-ws-enabling-cli.html
+https://nokonokonetwork.com/juniper/srx_cli_command_backup_router.html
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDczNjQ2NjM3LDE4MTE1NjMxMTMsNjAwNT
-U0NTM4LDg1NDQzNjIwNSwxMTQzNzU0ODE5LC0xMjEwOTM0MDkz
-LC0xMzExOTM2MTA3LDYwNDA1NDE1NCw5ODI4NzM2NTQsLTEzMT
-A5MjYyODMsNzY1ODc1NjA2LC03NzI0MTQwNjgsMzM3NDE1MDA0
-LDQ2MzM3MzMwM119
+eyJoaXN0b3J5IjpbMTA4NDc5MDI1NiwxODExNTYzMTEzLDYwMD
+U1NDUzOCw4NTQ0MzYyMDUsMTE0Mzc1NDgxOSwtMTIxMDkzNDA5
+MywtMTMxMTkzNjEwNyw2MDQwNTQxNTQsOTgyODczNjU0LC0xMz
+EwOTI2MjgzLDc2NTg3NTYwNiwtNzcyNDE0MDY4LDMzNzQxNTAw
+NCw0NjMzNzMzMDNdfQ==
 -->
