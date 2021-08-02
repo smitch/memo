@@ -117,9 +117,10 @@ https://www.juniper.net/documentation/us/en/software/junos/nat/topics/ref/statem
 https://www.juniper.net/documentation/en_US/junos/topics/example/denial-of-service-network-tcp-proxy-ws-enabling-cli.html
 https://nokonokonetwork.com/juniper/srx_cli_command_backup_router.html
 https://networkengineering.stackexchange.com/questions/64139/how-can-i-monitor-traffic-matching-a-ip-address
+https://www.juniper.net/assets/jp/jp/local/pdf/additional-resources/junos-training-srx-course-jp.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MDQ1OTIwOCwxMDg0NzkwMjU2LDE4MT
+eyJoaXN0b3J5IjpbLTY4NjcwMjMxMSwxMDg0NzkwMjU2LDE4MT
 E1NjMxMTMsNjAwNTU0NTM4LDg1NDQzNjIwNSwxMTQzNzU0ODE5
 LC0xMjEwOTM0MDkzLC0xMzExOTM2MTA3LDYwNDA1NDE1NCw5OD
 I4NzM2NTQsLTEzMTA5MjYyODMsNzY1ODc1NjA2LC03NzI0MTQw
