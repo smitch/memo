@@ -112,12 +112,13 @@ https://www.juniper.net/documentation/ja/junos/topics/example/port-mirroring-loc
 https://kb.juniper.net/InfoCenter/index?page=content&id=KB36138&cat=EX_Series&actp=LIST
 https://milestone-of-se.nesuke.com/nw-basic/nat/nat-summary/
 https://www.juniper.net/documentation/us/en/software/junos/interfaces-ethernet-switches/topics/ref/command/show-interfaces-diagnostics-optics-ex-series.html
-
+https://www.juniper.net/documentation/en_US/junos/topics/task/configuration/tcp-rfc-1323-tcp-paws-extension-disabling.html
+https://www.juniper.net/documentation/us/en/software/junos/nat/topics/ref/statement/security-edit-clear-threshold.html
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Nzc1NTQ4NjIsMTgxMTU2MzExMyw2MD
-A1NTQ1MzgsODU0NDM2MjA1LDExNDM3NTQ4MTksLTEyMTA5MzQw
-OTMsLTEzMTE5MzYxMDcsNjA0MDU0MTU0LDk4Mjg3MzY1NCwtMT
-MxMDkyNjI4Myw3NjU4NzU2MDYsLTc3MjQxNDA2OCwzMzc0MTUw
-MDQsNDYzMzczMzAzXX0=
+eyJoaXN0b3J5IjpbMTIyNTA2NDE5NywxODExNTYzMTEzLDYwMD
+U1NDUzOCw4NTQ0MzYyMDUsMTE0Mzc1NDgxOSwtMTIxMDkzNDA5
+MywtMTMxMTkzNjEwNyw2MDQwNTQxNTQsOTgyODczNjU0LC0xMz
+EwOTI2MjgzLDc2NTg3NTYwNiwtNzcyNDE0MDY4LDMzNzQxNTAw
+NCw0NjMzNzMzMDNdfQ==
 -->
