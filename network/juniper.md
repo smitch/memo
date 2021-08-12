@@ -121,11 +121,13 @@ https://www.juniper.net/assets/jp/jp/local/pdf/additional-resources/junos-traini
 https://itengine.seesaa.net/article/441004549.html
 https://nokonokonetwork.com/juniper/juniper_troubleshooting_logs.html
 https://kb.juniper.net/InfoCenter/index?page=content&id=KB23978
+https://www.zabbix.com/integrations/juniper
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjAyNzYwODcsMTgxNDY2NzU1MCwxMD
-g0NzkwMjU2LDE4MTE1NjMxMTMsNjAwNTU0NTM4LDg1NDQzNjIw
-NSwxMTQzNzU0ODE5LC0xMjEwOTM0MDkzLC0xMzExOTM2MTA3LD
-YwNDA1NDE1NCw5ODI4NzM2NTQsLTEzMTA5MjYyODMsNzY1ODc1
-NjA2LC03NzI0MTQwNjgsMzM3NDE1MDA0LDQ2MzM3MzMwM119
+eyJoaXN0b3J5IjpbLTE2OTcxNDU2MTQsLTE0MjAyNzYwODcsMT
+gxNDY2NzU1MCwxMDg0NzkwMjU2LDE4MTE1NjMxMTMsNjAwNTU0
+NTM4LDg1NDQzNjIwNSwxMTQzNzU0ODE5LC0xMjEwOTM0MDkzLC
+0xMzExOTM2MTA3LDYwNDA1NDE1NCw5ODI4NzM2NTQsLTEzMTA5
+MjYyODMsNzY1ODc1NjA2LC03NzI0MTQwNjgsMzM3NDE1MDA0LD
+Q2MzM3MzMwM119
 -->
