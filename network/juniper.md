@@ -122,12 +122,14 @@ https://itengine.seesaa.net/article/441004549.html
 https://nokonokonetwork.com/juniper/juniper_troubleshooting_logs.html
 https://kb.juniper.net/InfoCenter/index?page=content&id=KB23978
 https://www.zabbix.com/integrations/juniper
+https://www.juniper.net/documentation/en_US/junos/topics/task/verification/snmpwalk-running.html
+https://www.juniper.net/documentation/jp/ja/software/junos/network-mgmt/topics/ref/command/show-snmp-mib.html
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTcxNDU2MTQsLTE0MjAyNzYwODcsMT
-gxNDY2NzU1MCwxMDg0NzkwMjU2LDE4MTE1NjMxMTMsNjAwNTU0
-NTM4LDg1NDQzNjIwNSwxMTQzNzU0ODE5LC0xMjEwOTM0MDkzLC
-0xMzExOTM2MTA3LDYwNDA1NDE1NCw5ODI4NzM2NTQsLTEzMTA5
-MjYyODMsNzY1ODc1NjA2LC03NzI0MTQwNjgsMzM3NDE1MDA0LD
-Q2MzM3MzMwM119
+eyJoaXN0b3J5IjpbMTQ5NzUzMTIwOSwtMTQyMDI3NjA4NywxOD
+E0NjY3NTUwLDEwODQ3OTAyNTYsMTgxMTU2MzExMyw2MDA1NTQ1
+MzgsODU0NDM2MjA1LDExNDM3NTQ4MTksLTEyMTA5MzQwOTMsLT
+EzMTE5MzYxMDcsNjA0MDU0MTU0LDk4Mjg3MzY1NCwtMTMxMDky
+NjI4Myw3NjU4NzU2MDYsLTc3MjQxNDA2OCwzMzc0MTUwMDQsND
+YzMzczMzAzXX0=
 -->
