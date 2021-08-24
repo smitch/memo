@@ -20,7 +20,7 @@ visudo
  vi /etc/hosts
  <ip address> <hostname>
  
- # network
+# network
 -  https://qiita.com/routerman/items/4d19b3084fa58723830c
 ```
 # ip address add 192.168.11.100/24 dev eth0
@@ -31,5 +31,5 @@ visudo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1ODI3MjA0NV19
+eyJoaXN0b3J5IjpbNzM3OTMyNDY1LDE4NTgyNzIwNDVdfQ==
 -->
