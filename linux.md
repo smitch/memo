@@ -20,3 +20,16 @@ visudo
  vi /etc/hosts
  <ip address> <hostname>
  
+ # network
+-  https://qiita.com/routerman/items/4d19b3084fa58723830c
+```
+# ip address add 192.168.11.100/24 dev eth0
+# ip link set eth0 up
+# echo "nameserver 192.168.11.1" >> resolv.conf
+# echo "nameserver 8.8.8.8" >> resolv.conf
+```
+
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTg1ODI3MjA0NV19
+-->
