@@ -125,12 +125,19 @@ https://www.zabbix.com/integrations/juniper
 https://www.juniper.net/documentation/en_US/junos/topics/task/verification/snmpwalk-running.html
 https://www.juniper.net/documentation/jp/ja/software/junos/network-mgmt/topics/ref/command/show-snmp-mib.html
 https://nokonokonetwork.com/juniper/juniper_troubleshooting_logs.html
+https://www.juniper.net/assets/jp/jp/local/pdf/others/nat.pdf
+https://www.juniper.net/documentation/software/translated/security-guide/japanese/security-guide-11.4-ja.pdf
+https://www.juniper.net/documentation/jp/ja/software/junos/routing-policy/topics/example/policy-discard-interface.html
+https://itengine.seesaa.net/article/440288166.html
+https://www.juniper.net/documentation/jp/ja/software/junos/cli/topics/topic-map/junos-rescue-configuration.html
+https://kb.juniper.net/InfoCenter/index?page=content&id=KB11709&actp=METADATA
+https://nokonokonetwork.com/juniper/srx_cli_command_rollback.html
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NjUxODM2MywxNDk3NTMxMjA5LC0xND
-IwMjc2MDg3LDE4MTQ2Njc1NTAsMTA4NDc5MDI1NiwxODExNTYz
-MTEzLDYwMDU1NDUzOCw4NTQ0MzYyMDUsMTE0Mzc1NDgxOSwtMT
-IxMDkzNDA5MywtMTMxMTkzNjEwNyw2MDQwNTQxNTQsOTgyODcz
-NjU0LC0xMzEwOTI2MjgzLDc2NTg3NTYwNiwtNzcyNDE0MDY4LD
-MzNzQxNTAwNCw0NjMzNzMzMDNdfQ==
+eyJoaXN0b3J5IjpbNDEyNTM3NDA5LDE4NTY1MTgzNjMsMTQ5Nz
+UzMTIwOSwtMTQyMDI3NjA4NywxODE0NjY3NTUwLDEwODQ3OTAy
+NTYsMTgxMTU2MzExMyw2MDA1NTQ1MzgsODU0NDM2MjA1LDExND
+M3NTQ4MTksLTEyMTA5MzQwOTMsLTEzMTE5MzYxMDcsNjA0MDU0
+MTU0LDk4Mjg3MzY1NCwtMTMxMDkyNjI4Myw3NjU4NzU2MDYsLT
+c3MjQxNDA2OCwzMzc0MTUwMDQsNDYzMzczMzAzXX0=
 -->
