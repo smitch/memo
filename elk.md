@@ -2,7 +2,7 @@
 ## [ElasticsearchにCSVファイルの内容をロードする（CSVモジュール ＆ Pandas）](https://kazuhira-r.hatenablog.com/entry/2020/01/01/012853)
 
 ## propertyをaggregatableにする
-dev toolより以下を実行
+Dev Toolsより以下を実行
 ```
 PUT <index name>/_mapping
 {
@@ -61,6 +61,6 @@ docker pull docker.elastic.co/beats/filebeat:7.11.1
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODExMDQxNTUsMzIyMjk2MDAsLTgwMD
-E0MzA2OCwtMTU0NDMyNDE1OF19
+eyJoaXN0b3J5IjpbMjEyMzMzMjEyLDMyMjI5NjAwLC04MDAxND
+MwNjgsLTE1NDQzMjQxNThdfQ==
 -->
