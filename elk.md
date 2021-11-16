@@ -1,5 +1,20 @@
+# elasticsearch
+## [ElasticsearchにCSVファイルの内容をロードする（CSVモジュール ＆ Pandas）](https://kazuhira-r.hatenablog.com/entry/2020/01/01/012853)
 
-# [ElasticsearchにCSVファイルの内容をロードする（CSVモジュール ＆ Pandas）](https://kazuhira-r.hatenablog.com/entry/2020/01/01/012853)
+## propertyをaggregatableにする
+dev toolより以下を実行
+```
+PUT twi/_mapping
+{
+  "properties": {
+    "text": { 
+      "type":     "text",
+      "fielddata": true
+    }
+  }
+}
+```
+
 
 # docker-compose
 docker-compose.yaml 
@@ -44,7 +59,8 @@ volumes:
 ```
 docker pull docker.elastic.co/beats/filebeat:7.11.1
 ```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIyMjk2MDAsLTgwMDE0MzA2OCwtMTU0ND
-MyNDE1OF19
+eyJoaXN0b3J5IjpbMTIyODg1NTEwNSwzMjIyOTYwMCwtODAwMT
+QzMDY4LC0xNTQ0MzI0MTU4XX0=
 -->
