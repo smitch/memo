@@ -4,10 +4,10 @@
 ## propertyをaggregatableにする
 dev toolより以下を実行
 ```
-PUT twi/_mapping
+PUT <index name>/_mapping
 {
   "properties": {
-    "text": { 
+    "<property name>": { 
       "type":     "text",
       "fielddata": true
     }
@@ -61,6 +61,6 @@ docker pull docker.elastic.co/beats/filebeat:7.11.1
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyODg1NTEwNSwzMjIyOTYwMCwtODAwMT
-QzMDY4LC0xNTQ0MzI0MTU4XX0=
+eyJoaXN0b3J5IjpbLTE1ODExMDQxNTUsMzIyMjk2MDAsLTgwMD
+E0MzA2OCwtMTU0NDMyNDE1OF19
 -->
