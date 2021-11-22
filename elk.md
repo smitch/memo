@@ -18,23 +18,28 @@ PUT <index name>/_mapping
 https://www.elastic.co/guide/en/elasticsearch/reference/current/dynamic-templates.html
 
 ```
-PUT  my-index-000001/
-  {
-    "mappings":
-    {
-      "dynamic_templates":
-      [
-        {
-          "strings_as_ip": {
+PUT twitter_template/
+{
+  "mappings": {
+    "dynamic_templates": [
+      {
+        "named_analyzers": {
           "match_mapping_type": "string",
-            "match":  "ip*",
-            "runtime":  {  "type":  "ip"
-              }
-                }
-                  }
-                    ]
-                      }
-                        }
+          "match": "text",
+          "mapping" : {
+           "analyzer" : "kuromoji",
+           "fielddata" : true,
+           "fields" : {
+             "keyword" : {
+               "type" : "keyword"
+             }
+            }
+          }
+        }
+      }
+    ]
+  }
+}
 ```
 
 # docker-compose
@@ -82,6 +87,7 @@ docker pull docker.elastic.co/beats/filebeat:7.11.1
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5MDc5ODE2NywyMTIzMzMyMTIsMzIyMj
-k2MDAsLTgwMDE0MzA2OCwtMTU0NDMyNDE1OF19
+eyJoaXN0b3J5IjpbODMzODgxOTU4LC0zOTA3OTgxNjcsMjEyMz
+MzMjEyLDMyMjI5NjAwLC04MDAxNDMwNjgsLTE1NDQzMjQxNThd
+fQ==
 -->
