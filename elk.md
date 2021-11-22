@@ -25,8 +25,7 @@ PUT  my-index-000001/
       "dynamic_templates":
       [
         {
-          "strings_as_ip":
-        {
+          "strings_as_ip": {
           "match_mapping_type": "string",
             "match":  "ip*",
             "runtime":  {  "type":  "ip"
@@ -83,6 +82,6 @@ docker pull docker.elastic.co/beats/filebeat:7.11.1
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUyNjc5MjMxLDIxMjMzMzIxMiwzMjIyOT
-YwMCwtODAwMTQzMDY4LC0xNTQ0MzI0MTU4XX0=
+eyJoaXN0b3J5IjpbLTM5MDc5ODE2NywyMTIzMzMyMTIsMzIyMj
+k2MDAsLTgwMDE0MzA2OCwtMTU0NDMyNDE1OF19
 -->
