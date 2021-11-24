@@ -18,7 +18,7 @@ PUT <index name>/_mapping
 https://www.elastic.co/guide/en/elasticsearch/reference/current/dynamic-templates.html
 
 ```
-PUT twitter_template/
+PUT index_name/
 {
   "mappings": {
     "dynamic_templates": [
@@ -87,7 +87,7 @@ docker pull docker.elastic.co/beats/filebeat:7.11.1
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMzODgxOTU4LC0zOTA3OTgxNjcsMjEyMz
-MzMjEyLDMyMjI5NjAwLC04MDAxNDMwNjgsLTE1NDQzMjQxNThd
-fQ==
+eyJoaXN0b3J5IjpbLTQ1NjgyMTE2NCw4MzM4ODE5NTgsLTM5MD
+c5ODE2NywyMTIzMzMyMTIsMzIyMjk2MDAsLTgwMDE0MzA2OCwt
+MTU0NDMyNDE1OF19
 -->
