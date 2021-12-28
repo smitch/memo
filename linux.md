@@ -29,7 +29,10 @@ visudo
 # echo "nameserver 8.8.8.8" >> resolv.conf
 ```
 
+# htop
+- https://sys-guard.com/post-6318/
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM3OTMyNDY1LDE4NTgyNzIwNDVdfQ==
+eyJoaXN0b3J5IjpbLTM3MjI2NjI2MCw3Mzc5MzI0NjUsMTg1OD
+I3MjA0NV19
 -->
