@@ -1,4 +1,6 @@
 # elasticsearch
+## [docker-composeでElasticsearchを起動する際に複数プラグインをインストールする] (https://qiita.com/acuuuuura/items/5f477f05099054b6fe59)
+
 ## [ElasticsearchにCSVファイルの内容をロードする（CSVモジュール ＆ Pandas）](https://kazuhira-r.hatenablog.com/entry/2020/01/01/012853)
 
 ## propertyをaggregatableにする
@@ -87,7 +89,7 @@ docker pull docker.elastic.co/beats/filebeat:7.11.1
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NjgyMTE2NCw4MzM4ODE5NTgsLTM5MD
-c5ODE2NywyMTIzMzMyMTIsMzIyMjk2MDAsLTgwMDE0MzA2OCwt
-MTU0NDMyNDE1OF19
+eyJoaXN0b3J5IjpbODIwNTgyNDU0LC00NTY4MjExNjQsODMzOD
+gxOTU4LC0zOTA3OTgxNjcsMjEyMzMzMjEyLDMyMjI5NjAwLC04
+MDAxNDMwNjgsLTE1NDQzMjQxNThdfQ==
 -->
