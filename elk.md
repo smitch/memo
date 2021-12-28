@@ -1,5 +1,12 @@
 # elasticsearch
-## [docker-composeでElasticsearchを起動する際に複数プラグインをインストールする] (https://qiita.com/acuuuuura/items/5f477f05099054b6fe59)
+## [docker-composeでElasticsearchを起動する際に複数プラグインをインストールする](https://qiita.com/acuuuuura/items/5f477f05099054b6fe59)
+
+```
+version: "3.0" services: elasticsearch: image: 
+docker.elastic.co/elasticsearch/elasticsearch:x.x.x ...
+ command:
+  - /bin/sh - -c - "./bin/elasticsearch-plugin list | grep -q analysis-kuromoji || ./bin/elasticsearch-plugin install analysis-kuromoji; ./bin/elasticsearch-plugin list | grep -q analysis-icu || ./bin/elasticsearch-plugin install analysis-icu; /usr/local/bin/docker-entrypoint.sh"
+```
 
 ## [ElasticsearchにCSVファイルの内容をロードする（CSVモジュール ＆ Pandas）](https://kazuhira-r.hatenablog.com/entry/2020/01/01/012853)
 
@@ -89,7 +96,7 @@ docker pull docker.elastic.co/beats/filebeat:7.11.1
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIwNTgyNDU0LC00NTY4MjExNjQsODMzOD
+eyJoaXN0b3J5IjpbMTU1MzUzODQ2LC00NTY4MjExNjQsODMzOD
 gxOTU4LC0zOTA3OTgxNjcsMjEyMzMzMjEyLDMyMjI5NjAwLC04
 MDAxNDMwNjgsLTE1NDQzMjQxNThdfQ==
 -->
