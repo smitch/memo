@@ -15,6 +15,13 @@ cosole character ja.utf8
 
 
 SSH設定
+
+```
+login user <user> <password>
+sshd host key generate
+sshd service on
+```
+
 ```
 Host 192.168.0.1
 KexAlgorithms +diffie-hellman-group1-sha1
@@ -22,6 +29,6 @@ KexAlgorithms +diffie-hellman-group1-sha1
 - https://lowreal.net/2021/10/01/1
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ2MzE4NTI2LDY1NTUyNjg0MywtMjU0OD
-U3MjI0XX0=
+eyJoaXN0b3J5IjpbMTcxMDI4ODQzOCw0NDYzMTg1MjYsNjU1NT
+I2ODQzLC0yNTQ4NTcyMjRdfQ==
 -->
