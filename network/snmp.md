@@ -7,9 +7,8 @@ snmpwalk -Os -M /volume/~/mibs -m all tp1 public .1.3.6.1.2.1.4
 ```
 
 ```
-snmpwalk -M /usr/share/snmp/mibs:/usr/share/snmp/mibs/iana:/usr/sh
-are/snmp/mibs/ietf:./yamaha-private-mib -m all -v 2c -c <community> 192.168.100.2
+snmpwalk -M /usr/share/snmp/mibs:/usr/share/snmp/mibs/iana:/usr/share/snmp/mibs/ietf:./yamaha-private-mib -m all -v 2c -c <community> 192.168.100.2
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0ODIzNDI2OSwxOTY3Mjk0OTEwXX0=
+eyJoaXN0b3J5IjpbNDAyMjk1NDc3LDE5NjcyOTQ5MTBdfQ==
 -->
