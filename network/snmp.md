@@ -5,7 +5,8 @@ https://qiita.com/Mabuchin/items/d435c0afb4f0ca17ad25
 ```
 snmpwalk -Os -M /volume/~/mibs -m all tp1 public .1.3.6.1.2.1.4
 ```
-
+snmpwalk -M /usr/share/snmp/mibs:/usr/share/snmp/mibs/iana:/usr/sh
+are/snmp/mibs/ietf:./yamaha-private-mib -m all -v 2c -c mujin-tenpo 192.168.100.2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NzI5NDkxMF19
+eyJoaXN0b3J5IjpbLTcxOTU0Mjc2MiwxOTY3Mjk0OTEwXX0=
 -->
