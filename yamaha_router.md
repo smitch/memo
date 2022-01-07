@@ -10,10 +10,10 @@ show log reverse
 
 文字化け対策
 ```
-cosole character ja.utf-8
+cosole character ja.utf8
 ```
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NDg1NzIyNF19
+eyJoaXN0b3J5IjpbNjU1NTI2ODQzLC0yNTQ4NTcyMjRdfQ==
 -->
