@@ -38,6 +38,25 @@ Automatic port assignment uses the port range 1024 through 65535.
 ```
 デフォルトのタイムアウトは、TCP では 30 分、UDP では 1 分です。
 ```
+
+# Juniper SRX Cluster – Log into secondary node
+
+```
+{primary:node0}
+root@vsrx> request routing-engine login node 1
+Last login: Tue Mar 20  00:23:15 from 129.16.0.1
+--- JUNOS 17.4R1.16 Kernel 64-bit JNPR-11.0-20171206.f4cad52_buil
+root@vsrx:~ # cli
+{secondary:node1}
+root@vsrx>
+```
+
+```
+
+```
+
+- https://gbe0.com/posts/networking/juniper/srx-vsrx/juniper-srx-cluster-log-into-secondary-node/
+
 # memo url only
 
 - https://klock-3rd.hatenablog.com/entry/2018/08/09/234202
@@ -134,10 +153,11 @@ https://kb.juniper.net/InfoCenter/index?page=content&id=KB11709&actp=METADATA
 https://nokonokonetwork.com/juniper/srx_cli_command_rollback.html
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDEyNTM3NDA5LDE4NTY1MTgzNjMsMTQ5Nz
-UzMTIwOSwtMTQyMDI3NjA4NywxODE0NjY3NTUwLDEwODQ3OTAy
-NTYsMTgxMTU2MzExMyw2MDA1NTQ1MzgsODU0NDM2MjA1LDExND
-M3NTQ4MTksLTEyMTA5MzQwOTMsLTEzMTE5MzYxMDcsNjA0MDU0
-MTU0LDk4Mjg3MzY1NCwtMTMxMDkyNjI4Myw3NjU4NzU2MDYsLT
-c3MjQxNDA2OCwzMzc0MTUwMDQsNDYzMzczMzAzXX0=
+eyJoaXN0b3J5IjpbLTEyNTk1MjEyNjgsNDEyNTM3NDA5LDE4NT
+Y1MTgzNjMsMTQ5NzUzMTIwOSwtMTQyMDI3NjA4NywxODE0NjY3
+NTUwLDEwODQ3OTAyNTYsMTgxMTU2MzExMyw2MDA1NTQ1MzgsOD
+U0NDM2MjA1LDExNDM3NTQ4MTksLTEyMTA5MzQwOTMsLTEzMTE5
+MzYxMDcsNjA0MDU0MTU0LDk4Mjg3MzY1NCwtMTMxMDkyNjI4My
+w3NjU4NzU2MDYsLTc3MjQxNDA2OCwzMzc0MTUwMDQsNDYzMzcz
+MzAzXX0=
 -->
