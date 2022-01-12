@@ -52,7 +52,7 @@ root@vsrx>
 ```
 
 ```
-
+root@vsrx> file copy /var/tmp/myfile node0:/var/tmp/
 ```
 
 - https://gbe0.com/posts/networking/juniper/srx-vsrx/juniper-srx-cluster-log-into-secondary-node/
@@ -153,11 +153,11 @@ https://kb.juniper.net/InfoCenter/index?page=content&id=KB11709&actp=METADATA
 https://nokonokonetwork.com/juniper/srx_cli_command_rollback.html
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTk1MjEyNjgsNDEyNTM3NDA5LDE4NT
-Y1MTgzNjMsMTQ5NzUzMTIwOSwtMTQyMDI3NjA4NywxODE0NjY3
-NTUwLDEwODQ3OTAyNTYsMTgxMTU2MzExMyw2MDA1NTQ1MzgsOD
-U0NDM2MjA1LDExNDM3NTQ4MTksLTEyMTA5MzQwOTMsLTEzMTE5
-MzYxMDcsNjA0MDU0MTU0LDk4Mjg3MzY1NCwtMTMxMDkyNjI4My
-w3NjU4NzU2MDYsLTc3MjQxNDA2OCwzMzc0MTUwMDQsNDYzMzcz
-MzAzXX0=
+eyJoaXN0b3J5IjpbLTM1Nzk1MTg0NCw0MTI1Mzc0MDksMTg1Nj
+UxODM2MywxNDk3NTMxMjA5LC0xNDIwMjc2MDg3LDE4MTQ2Njc1
+NTAsMTA4NDc5MDI1NiwxODExNTYzMTEzLDYwMDU1NDUzOCw4NT
+Q0MzYyMDUsMTE0Mzc1NDgxOSwtMTIxMDkzNDA5MywtMTMxMTkz
+NjEwNyw2MDQwNTQxNTQsOTgyODczNjU0LC0xMzEwOTI2MjgzLD
+c2NTg3NTYwNiwtNzcyNDE0MDY4LDMzNzQxNTAwNCw0NjMzNzMz
+MDNdfQ==
 -->
